@@ -1,17 +1,17 @@
-# tasking
+# Tukitaki Somadhan
 
-A new Flutter project.
+## Description
+"Tukitaki Somadhan" is a mobile application designed to bridge the gap between service seekers and individual service providers. Leveraging Firebase and GetX, the app provides a user-friendly platform for posting job requirements and connecting with suitable service providers.
 
-## Getting Started
+## Features
+- User-friendly interface for posting and browsing job requirements
+- Seamless connection between service seekers and providers
+- Real-time updates and notifications
+- Secure authentication and data management using Firebase
+- Efficient state management with GetX
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# TTS_Tasking
+## Technology Used
+- Flutter
+- Dart
+- Firebase
+- GetX State Management
